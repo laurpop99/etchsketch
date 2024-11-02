@@ -1,5 +1,4 @@
 * {
-    background-color: rgb(26, 22, 22);
     padding: 0px;
     margin: 0px;
 }
@@ -36,8 +35,8 @@ h1 {
 }
 
 #content {
-    background-color: rgb(255, 255, 255);
     border: 2px solid black;
+    background-color: black;
     height: 840px;
     width: 840px;
     margin: 5px;
@@ -47,8 +46,8 @@ h1 {
 .tableGrid {
 
     border: 1px solid black;
-    background-color: rgb(255, 255, 255);
     box-sizing: border-box;
+    background-color: white;
     padding: 2px;
 }
 
